@@ -418,6 +418,10 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<p>
+Be sure to check your setup prior to the workshop — the earlier the better. If you need any assistance, please visit the <a href ="https://hub.datascience.wisc.edu/consultation/#:~:text=expertise%20you%20need.-,Coding%20Meetup,-Coding%20Meetup%20is">Data Science Hub</a> on <strong>Tuesdays and Thursdays, 2:30-4:30pm.</strong> For appointments outside of Coding Meetup, please email <a href ="mailto:facilitator@datascience.wisc.edu">facilitator@datascience.wisc.edu</a>.
+<p>
+  
 {% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
